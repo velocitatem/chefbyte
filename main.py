@@ -151,6 +151,7 @@ def extract_recipe(description: str):
     Extract ingredients from a recipe description using OpenAI
     """
     # If you wanted to do a real call:
+    # FUTURE TODO: small model and local
     completion = client.beta.chat.completions.parse(
         model="gpt-4o-2024-08-06",
         messages=[
