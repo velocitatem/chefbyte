@@ -129,4 +129,4 @@ Before you start cooking up some recipes, make sure you’ve got:
 
 ## 💌 Contact
 
-Got questions or feedback? Reach out at [daniel@alves.com](mailto:daniel@alves.world).
+Got questions or feedback? Reach out at [daniel@alves.world](mailto:daniel@alves.world).
